@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-pic (1).png"
+  avatar           : "profile-pic.png"
   name             : "Mohammed Jouhari"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, Faculty of Sciences, Ibn Tofail University. Cybersecurity, IoT/IIoT IDS, FL, UAVs, MEI."
