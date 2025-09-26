@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-pic (1).png"
   name             : "Mohammed Jouhari"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, Faculty of Sciences, Ibn Tofail University. Cybersecurity, IoT/IIoT IDS, FL, UAVs, MEI."
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5406-8594"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57189074563"
 
