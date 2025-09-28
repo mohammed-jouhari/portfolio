@@ -12,10 +12,10 @@ main:
     url: /portfolio/publications/
 
   - title: "Talks"
-    url: /portfolio/talks/    
+    url: /portfolio/talks/ 
 
   - title: "Teaching"
-    url: /portfolio/teaching/    
+    url: /portfolio/teaching/
     
   - title: "Portfolio"
     url: /portfolio/portfolio/
