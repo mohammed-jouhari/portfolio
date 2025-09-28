@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mohammed Jouhari — Assistant Professor of Computer Science"
+title: "Dr. Mohammed Jouhari"
 author_profile: true
 redirect_from: 
   - /about/
