@@ -1,7 +1,7 @@
 ---
 title: "Teaching Experience 2017–2025"
 collection: teaching
-type: "Workshop" #"Teaching"
+type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2025-01-01
