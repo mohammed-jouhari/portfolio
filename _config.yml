@@ -13,17 +13,17 @@ title                    : "Mohammed Jouhari / Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Mohammed Jouhari"
 description              : &description "Mohammed Jouhari's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://mohammed-jouhari.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
+repository               : "mohammed-jouhari/portfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "profile.png"
   name             : "Mohammed Jouhari"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, Faculty of Sciences, Ibn Tofail University. Cybersecurity, IoT/IIoT IDS, FL, UAVs, MEI."
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : "mohammed-jouhari"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -278,7 +278,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
